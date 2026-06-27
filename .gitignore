@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables / secrets
+.env
+
+# Raw data should not be published publicly
+data/raw/*
+!data/raw/.gitkeep
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
