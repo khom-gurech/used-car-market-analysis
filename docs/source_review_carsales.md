@@ -42,8 +42,9 @@ Choose one after review:
 
 - [ ] Permitted web scraping
 - [ ] Manual sample collection only
-- [ ] Do not use this source
+- [x] Do not use this source
 
 ## Notes
 
+Carsales terms restrict automated scraping, data mining, copying, and compiling databases from Carsales material without prior written approval. This project will not scrape Carsales.
 Pending review.

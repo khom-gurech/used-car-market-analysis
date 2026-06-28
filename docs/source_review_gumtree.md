@@ -41,9 +41,10 @@ This project will not collect or publish:
 Choose one after review:
 
 - [ ] Permitted web scraping
-- [ ] Manual sample collection only
+- [x] Manual sample collection only
 - [ ] Do not use this source
 
 ## Notes
 
+Automated scraping permission was not clearly established. This project will not build an automated Gumtree scraper unless permission is clear. If Gumtree is used at all, only a small anonymised manual sample will be considered.
 Pending review.
