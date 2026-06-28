@@ -12,11 +12,12 @@ The goal is to avoid unsafe or unethical scraping and choose a collection method
 
 ## Candidate Sources to Review
 
-| Source   | Publicly Accessible? |  Terms Checked? | robots.txt Checked? | Personal Info Risk? | Decision |
-| -------- | -------------------: | --------------: | ------------------: | ------------------: | -------- |
-| Source 1 |      Not checked yet | Not checked yet |     Not checked yet |     Not checked yet | Pending  |
-| Source 2 |      Not checked yet | Not checked yet |     Not checked yet |     Not checked yet | Pending  |
-| Source 3 |      Not checked yet | Not checked yet |     Not checked yet |     Not checked yet | Pending  |
+| Source                   |        Publicly Accessible? |  Terms Checked? | robots.txt Checked? | Personal Info Risk? | Decision      |
+| ------------------------ | --------------------------: | --------------: | ------------------: | ------------------: | ------------- |
+| Carsales                 |             Not checked yet | Not checked yet |     Not checked yet |              Medium | Pending       |
+| Gumtree Cars             |             Not checked yet | Not checked yet |     Not checked yet |              Medium | Pending       |
+| Facebook Marketplace     | No - login usually required | Not checked yet |     Not checked yet |                High | Likely avoid  |
+| Manual sample collection |                         Yes |    Not required |        Not required |   Low if anonymised | Safe fallback |
 
 ## Data Collection Rules for This Project
 
