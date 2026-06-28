@@ -114,6 +114,7 @@ Each row will represent one used Toyota Camry Hybrid listing at the time it was 
 - [x] Project folder created
 - [x] GitHub repository structure prepared
 - [x] README skeleton created
+- [x] GitHub repository published
 - [ ] Data source reviewed
 - [ ] Data collected
 - [ ] Data cleaned
