@@ -1,0 +1,11 @@
+scrape_date,source_site,listing_id_hash,title,price_aud,year,make,model,variant,fuel_type,transmission,odometer_km,state,suburb_or_region,seller_type,listing_age_days,vehicle_age,km_band
+2026-06-28,autotrader_manual,listing_001,2018 Toyota Camry Ascent Sport Hybrid Axvh71R,21999.0,2018,Toyota,Camry,Ascent Sport Hybrid,Hybrid,Automatic,110091,NSW,Five Dock,Dealer,,8,100-150k
+2026-06-28,carsguide_manual,listing_002,2010 Toyota Camry Hybrid Ahv40R,12980.0,2010,Toyota,Camry,Hybrid,Hybrid,Automatic,175900,VIC,Ferntree Gully,Dealer,,16,150-200k
+2026-06-28,carsguide_manual,listing_003,2010 Toyota Camry Hybrid Ahv40R,10195.0,2010,Toyota,Camry,Hybrid,Hybrid,Automatic,217201,QLD,Nambour,Dealer,,16,200k+
+2026-06-28,carsguide_manual,listing_004,2011 Toyota Camry Hybrid Ahv40R,12980.0,2011,Toyota,Camry,Hybrid,Hybrid,Automatic,162997,QLD,Slacks Creek,Dealer,,15,150-200k
+2026-06-28,carsguide_manual,listing_005,2011 Toyota Camry Hybrid Ahv40R,14250.0,2011,Toyota,Camry,Hybrid,Hybrid,Automatic,160000,WA,Perth,Dealer,,15,150-200k
+2026-06-28,carsguide_manual,listing_006,2010 Toyota Camry Hybrid Ahv40R,12995.0,2010,Toyota,Camry,Hybrid,Hybrid,Automatic,169090,VIC,Moorabbin,Dealer,,16,150-200k
+2026-06-28,carsguide_manual,listing_007,2010 Toyota Camry Hybrid Ahv40R,13990.0,2010,Toyota,Camry,Hybrid,Hybrid,Automatic,175407,NSW,Minchinbury,Dealer,,16,150-200k
+2026-06-28,carsguide_manual,listing_008,2010 Toyota Camry Hybrid Ahv40R,11999.0,2010,Toyota,Camry,Hybrid,Hybrid,Automatic,118482,QLD,Rocklea,Dealer,,16,100-150k
+2026-06-28,carsguide_manual,listing_009,2012 Toyota Camry Hybrid Ahv40R,11800.0,2012,Toyota,Camry,Hybrid,Hybrid,Automatic,201181,QLD,Loganholme,Dealer,,14,200k+
+2026-06-28,autotrader_manual,listing_010,2022 Toyota Camry Ascent Sport Hybrid Axvh70R,34590.0,2022,Toyota,Camry,Ascent Sport Hybrid,Hybrid,Automatic,71204,NSW,Rydalmere,Dealer,,4,50-100k

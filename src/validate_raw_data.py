@@ -60,6 +60,13 @@ def main() -> None:
     duplicated_count = df["listing_id_hash"].duplicated().sum()
     print(f"Duplicated listing_id_hash values:{duplicated_count}")
     
+    print("\nRAW PRICE VALUES")
+    print("-"* 50)
+    print(df["price_aud"].head())
+    
+
+    
+    
     print("\nPRICE CLEANING PREVIEW")
     print("-"* 50)
     
@@ -77,7 +84,7 @@ def main() -> None:
     print("-"* 50)
     print(df["fuel_type"].value_counts(dropna=False))
     
-    print("\nVALUES VALUES")
+    print("\n VARIANT VALUES")
     print("-"* 50)
     print(df["variant"].value_counts(dropna=False))
     
